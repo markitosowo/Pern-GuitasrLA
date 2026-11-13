@@ -22,7 +22,7 @@ API en **Node.js + Express + Sequelize + PostgreSQL** (TypeScript) que guarda y 
 ### 1. Clonar e instalar dependencias
 
 ```bash
-git clone https://github.com/<tu-usuario>/PERNGuitarsLA.git
+git clone https://github.com/markitosowo/PERNGuitarsLA.git
 cd PERNGuitarsLA
 npm install
 ```
